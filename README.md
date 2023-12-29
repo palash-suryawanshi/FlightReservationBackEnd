@@ -1,4 +1,4 @@
-# AirlineResevationBackend
+# FlightResevationBackend
 
 >Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data.
 
@@ -14,8 +14,6 @@
 3) Create fifth Spring boot project as APIgateway and add Spring cloud dependency in it and do configuration in application properties as mentioned in above code
 4) In all microservices except server microservice you need to do configuration in application properties for database connection.
 5) After adding data in database according to attributes and by calling apis in postman then check the output.
-
-**video reference:-** https://youtu.be/U7a53hkFsWg
 
 **Directly Implementing using code mentioned above**
 1) Import this code in spring framework.
